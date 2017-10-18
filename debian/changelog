@@ -1,3 +1,9 @@
+clockd (0.0.42) unstable; urgency=low
+
+  * Bump version number so its not the same as the stock package
+
+ -- Ivaylo Dimitrov <ivo.g.dimitrov.75@gmail.com>  Wed, 18 Oct 2017 18:23:54 -0400
+
 clockd (0.0.41) unstable; urgency=low
 
   * First RE release
